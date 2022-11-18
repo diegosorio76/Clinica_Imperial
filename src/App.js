@@ -8,8 +8,8 @@ import { Login } from './Componentes/login'
 import { Logueado } from './Componentes/Logueado'
 import { Registrar } from './Componentes/Registrar'
 
-import React from "react";
-import { Routes, Route} from "react-router-dom";
+//import React from "react";
+//import { Routes, Route} from "react-router-dom";
 
 
 function App() {
